@@ -5,11 +5,17 @@ Contra Capa
 Já teve dias que você pensou "será que a vida não é mais que só isso, trabalhar, comer e dormir?", 
 talvez se sinta toltalmente sem vontade de levantar da cama, parece que nada faz sentido, 
 parece uma eterno retorno da mesma coisa todo dia, será que não existe outra maneira de viver?
-será que é só isso? O ser humano moderno é assim e assado, mas será que  só isso?
+será que é só isso? O ser humano moderno é assim e assado, mas será que só isso?, A vida não é justa,
+porque tem alguns que vivem uma vida tão realizadora, como Bill gates, Walt Disney ente outros.
 
 # Topicos
 ## 0 - mito de Ariadne
 ## 1 - Negação da Existência - Nilismo
+sociedade de paz e doença da mã consciencia e culpa
+### Teseu - O Heroi - Homem Moderno
+O jovem que seguia o paradgma vigente - homem de sucesso
+jovem rico - jovem trabalahdor - fez tudo o que mandaram fazer
+mas uma vida de pesos achando que eh uma vida de verdade - asno
 ## 2 - Mas o que realmente é a Existência? - dionisio
 Eros
 Transcedente e imanente monismo
@@ -44,7 +50,8 @@ desmembramento representado por Dioniso é um tema conhecido nas mitologias. Os�
 Ressureição
 Mas para que esse desmembramento seja positivo ele deve ser intercalado com a consciência, assim como mostra o mito onde Apolo e Dioniso revezavam o oráculo de Delfos.
 ## 4 - Ariadne, aquela que disse Sim a Existência
-quem eh ela?
+quem eh ela? Alma, psique, ego
+se encantou com teseu
 ela negou a vida seguindo teseu
 Ariadne  é  a  irmã,mas a irmã que experimenta o ressentimento contra seu irmão, otouro.
 o que eh o minotauro?
@@ -63,11 +70,14 @@ Sabe fazer aquilo que o homemsuperior não sabe: rir, brincar, dançar, isto é,
 meu fardo eh leve e suave
 além-do-homem, no além-do-heróis - vois sois deuses
 Deixada pelo ultimo homem teseu
+um salto emocional
+amor foi tao encaxotado debaixo de paradgmas, no fundo do labirinto
+prescisa decidir se fica a espera ou supera o homem
 so depois que a alma deixa o ultimo homem o alem do homem pode vir
 se torna leve alcança o ceus, coroa bolearesa alma era tao pesada com teseu mas tao leve com dionisio
 o que achava ser trabalho viver a vida era ressentimento e vingança
-ex quero fazer conscurso porque ? para me mostrar ao s outros
-queor um carro e apto para me provar aos outrps
+ex quero fazer conscurso porque ? para me mostrar aos outros
+quero um carro e apto para me provar aos outros
 a alma entao canta de alegria da verdadeira existencia
 uma dupla arfirmacao
 mesma musica, mesma existencia mas com o foco diferente
