@@ -1,15 +1,32 @@
-# livro-ariadne-e-dionisio
+# Livro
+# Ariadne e Dionisio
 # Amor Incondicional a Existência
 
 Contra Capa
 Já teve dias que você pensou "será que a vida não é mais que só isso, trabalhar, comer e dormir?", 
-talvez se sinta toltalmente sem vontade de levantar da cama, parece que nada faz sentido, 
+talvez se sinta totalmente sem vontade de levantar da cama, parece que nada faz sentido, 
 parece uma eterno retorno da mesma coisa todo dia, será que não existe outra maneira de viver?
-será que é só isso? O ser humano moderno é assim e assado, mas será que só isso?, A vida não é justa,
-porque tem alguns que vivem uma vida tão realizadora, como Bill gates, Walt Disney ente outros.
+Talvez você tenha muito resentimento por ver outros fazendo as coisas erradas e "dando certo" na vida,
+será que é só isso a existência? O ser humano moderno é assim e assado, mas será que só isso?
+seriamos apenas uma reação dos valores que carregamos será que não existe outro caminho?
 
 # Topicos
-## 0 - mito de Ariadne
+## 0 - O Labirinto
+Teseu foi mandado a Creta, voluntariamente, como sacrifício ao minotauro que habitava o labirinto construído por Dédalo e tão bem projetado que quem se aventurasse por ele não conseguiria mais sair. E seria, então, devorado pelo Minotauro. Teseu resolveu enfrentar o monstro. Foi ao renomado Oráculo de Delfos para descobrir se sairia vitorioso. O oráculo disse-lhe que deveria ser ajudado pelo amor para vencer o minotauro.
+
+Ariadne, a filha do rei Minos, apaixonou-se por Teseu à primeira vista e resolveu ajudá-lo a vencer o monstro e escapar se este a levasse a Atenas para que ela se casasse com ele. Teseu reconheceu aí a única chance de vitória e aceitou. Ariadne, então, deu-lhe uma espada e um fio de lã, para que ele pudesse achar o caminho de volta, e deste fio ficaria segurando uma das pontas. Teseu saiu vitorioso e partiu de volta à sua terra com Ariadne, embora o amor dele por ela não fosse o mesmo que o dela por ele.
+
+No caminho de volta da vitória, passaram na ilha de Naxos, então governada por Smerdius, filho de Naxos. Os habitantes de Naxos receberam Teseu e seus companheiros como convidados mas, durante a noite, Teseu teve um sonho em que Dioniso, surpreso por Ariadne ter se tornado a senhora do labirinto, o ameaçava se ele não deixasse Ariadne para o deus.
+
+Teseu parte sem Ariadne, Dionisio encontrando Ariadne sozinha, atrevendo-se, logo a toma como esposa, àquela que venceu o labirinto. Dá-lhe uma linda coroa de ouro como presente de casamento, cravejada de pedras preciosas, que, a pedido dela, ele atira ao céu quando Ariadne morre. Conservando sua beleza eternamente em forma de uma constelação, repleta de estrelas brilhantes.
+
+<p>Dioniso canta: </p>
+<p>"Sê prudente, Ariadne!...</p>
+<p>Tens pequenas orelhas, tens minhas orelhas:</p>
+<p>Põe aí uma palavra sensata!</p>
+<p>Não é preciso primeiro nos odiarmos se devemos nos amar?...</p>
+<p>Sou teu labirinto..."</p>
+
 ## 1 - Negação da Existência - Nilismo
 sociedade de paz e doença da mã consciencia e culpa
 ### Teseu - O Heroi - Homem Moderno
@@ -101,21 +118,3 @@ A moral,por sua vez, é um labirinto: disfarce do ideal ascético e religioso
 Teseu – o modelo – é o poder de negar, o Espírito de negação,o grande escroque. 
 Ariadne é a anima, a Alma, mas a alma reativaou  a  força  do  ressentimento.
 
-Teseu vence minotauro e perde para o vento
-ARTHUR NESTROVSKI
-
-De todas as histórias do labirinto, a mais famosa é a de Teseu, o único homem que teve coragem de enfrentar o Minotauro.
-Minos, o rei de Creta, ganhara uma guerra contra a cidade de Atenas, na Grécia.
-Para manter a paz, agora, os atenienses todos os anos tinham de sortear sete rapazes e sete moças, para serem devorados pelo Minotauro.
-Na terceira vez que isso estava para acontecer, o príncipe Teseu declarou que queria ser sorteado e enfrentar o Minotauro no labirinto.
-Quando o navio dele chegou a Creta, estavam todos esperando para ver quem era esse príncipe tão corajoso.
-Ariadne, a filha do rei Minos, apaixonou-se por Teseu à primeira vista e resolveu ajudá-lo a vencer o monstro e escapar.
-Uma coisa era tão difícil quanto a outra. Mas matar o Minotauro não ia adiantar nada, se Teseu não conseguisse sair do labirinto.
-Ariadne deu a Teseu uma espada e um fio de linha. A linha era para amarrar na cintura e ir desenrolando enquanto caminhasse; bastava seguir o fio, depois, para encontrar de novo a saída.
-Essa história talvez seja boa demais para ser verdade, mas o que dizem é que Teseu matou mesmo o Minotauro e escapou do labirinto seguindo o fio de Ariadne.
-A parte triste é o fim. Teseu e Ariadne escaparam, com os outros rapazes e moças, no seu barco.
-Mas, quando pararam para descansar, na ilha de Naxos, o deus Dioniso apareceu e disse a Teseu que não podia levar Ariadne, porque ela era sua.
-Teseu tinha coragem e força para lutar com o Minotauro, mas não para lutar com um deus. Deixou Ariadne dormindo na ilha e embarcou com os companheiros rumo a Atenas.
-Ariadne ficou tão triste, tão triste, que foi diminuindo, diminuindo, até sumir de tanta tristeza. Foi carregada pelo vento -que era o deus Dioniso.
-
-https://www1.folha.uol.com.br/fsp/1996/8/02/folhinha/4.html#:~:text=Ariadne%2C%20a%20filha%20do%20rei,e%20um%20fio%20de%20linha.
